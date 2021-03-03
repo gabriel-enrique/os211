@@ -8,3 +8,6 @@ ZCZC W00 100 L02 Zoom class (Monday)
 ZCZC W00 20 L01 Check SCELE (Cumulative)
 ZCZC W00 30 L05 Search about shells (bash, zsh, etc)
 ZCZC W00 15 L10 Try to answer Pop Quiz
+ZCZC W01 100 L02 Zoom class (Monday)
+ZCZC W01 5 L01 Check SCELE (Cumulative)
+ZCZC W01 120 L11 Do assignment #1 (Create a Debian Guest)
