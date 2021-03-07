@@ -16,6 +16,7 @@ ZCZC W01 100 L02 Zoom class (Monday)
 ZCZC W01  15 L01 Check SCELE (Cumulative)
 ZCZC W01  10 L06 Re-read week 01 slides
 ZCZC W01  15 L23 Read discussions and questions on Discord (Cumulative)
+ZCZC W01  15 L04 Fix GitHub pages link and formatting bugs
 ZCZC W01 150 L11 Assignment #1 (Create a Debian Guest. Install from ISO image option)
 ZCZC W01  15 L11 Assignment #1 (Setting up PuTTY)
 ZCZC W01  10 L11 Assignment #1 (Installing Debian Packages)
