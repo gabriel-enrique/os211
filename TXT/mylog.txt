@@ -47,5 +47,6 @@ ZCZC W02  60 L10 Trying Demo Week02
 ZCZC W02  30 L10 Generate GnuPG Key Pair. Import OS public key. Export my public key.
 ZCZC W02  10 L10 Copy myscript.sh from cbkadal's repository
 ZCZC W02   5 L10 Sign using SHA256SUM
+ZCZC W02 120 L10 Make Week 02 Top 10 List
 
 # EOF
