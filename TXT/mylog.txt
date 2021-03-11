@@ -1,8 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
-# Week 00
 ZCZC W00   5 L03 Setup GitHub repo
 ZCZC W00  10 L04 Setup GitHub page
 ZCZC W00  10 L06 Re-read week 00 slides
@@ -10,8 +8,6 @@ ZCZC W00 100 L02 Zoom class (Monday)
 ZCZC W00  20 L01 Check SCELE (Cumulative)
 ZCZC W00  30 L05 Search about shells (bash, zsh, etc)
 ZCZC W00  15 L10 Try to answer Pop Quiz
-
-# Week 01
 ZCZC W01 100 L02 Zoom class (Monday)
 ZCZC W01  15 L01 Check SCELE (Cumulative)
 ZCZC W01  10 L06 Re-read week 01 slides
@@ -37,8 +33,6 @@ ZCZC W01  10 L18 Assignment #8 (Try some regex)
 ZCZC W01  90 L08 Try to customize the terminal (.bashrc .vimrc etc)
 ZCZC W01  30 L08 Try to customize the PuTTY (fonts, bell sounds, etc)
 ZCZC W01  30 L08 Create a batch file to open VM and PuTTY in one go
-
-# Week 02
 ZCZC W02 100 L02 Zoom class (Monday)
 ZCZC W02   5 L01 Check SCELE (Cumulative)
 ZCZC W02  10 L06 Re-read week 02 slides
@@ -48,5 +42,4 @@ ZCZC W02  30 L10 Generate GnuPG Key Pair. Import OS public key. Export my public
 ZCZC W02  10 L10 Copy myscript.sh from cbkadal's repository
 ZCZC W02   5 L10 Sign using SHA256SUM
 ZCZC W02 120 L10 Make Week 02 Top 10 List
-
-# EOF
+ZCZC W02  15 L10 Update Week 02 ranks
