@@ -34,9 +34,9 @@ ZCZC W01  90 L08 Try to customize the terminal (.bashrc .vimrc etc)
 ZCZC W01  30 L08 Try to customize the PuTTY (fonts, bell sounds, etc)
 ZCZC W01  30 L08 Create a batch file to open VM and PuTTY in one go
 ZCZC W02 100 L02 Zoom class (Monday)
-ZCZC W02   5 L01 Check SCELE (Cumulative)
+ZCZC W02  10 L01 Check SCELE (Cumulative)
 ZCZC W02  10 L06 Re-read week 02 slides
-ZCZC W02   5 L23 Read discussions and questions on Discord (Cumulative)
+ZCZC W02  15 L23 Read discussions and questions on Discord (Cumulative)
 ZCZC W02  60 L10 Trying Demo Week02
 ZCZC W02  30 L10 Generate GnuPG Key Pair. Import OS public key. Export my public key.
 ZCZC W02  10 L10 Copy myscript.sh from cbkadal's repository
@@ -45,3 +45,4 @@ ZCZC W02 120 L10 Make Week 02 Top 10 List
 ZCZC W02  15 L10 Update Week 02 ranks
 ZCZC W02  60 L25 Learn more C-language
 ZCZC W02  15 L08 Try to setup WinSCP
+ZCZC W02  30 L06 Read OSC10 chapter 16 and chapter 17
