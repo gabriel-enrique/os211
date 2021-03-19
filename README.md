@@ -9,4 +9,4 @@ Hey, there! I'm **Gabriel Enrique**. Nice to meet you! 😄
 ### Weekly Assignments
 - [Week 01](https://gabriel-enrique.github.io/os211/W01/)
 - [Week 02](https://gabriel-enrique.github.io/os211/W02/)
-
+- [Week 03](https://gabriel-enrique.github.io/os211/W03/)
