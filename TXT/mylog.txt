@@ -57,3 +57,4 @@ ZCZC W03  10 L10 Try FUSE Demo
 ZCZC W03  20 L10 Do the FUSE + TARBALL assignment
 ZCZC W03  10 L10 Update myscript.sh
 ZCZC W03  15 L10 Update Week 03 ranks
+ZCZC W03 180 L10 Make Week 03 Top 10 List
