@@ -58,3 +58,10 @@ ZCZC W03  20 L10 Do the FUSE + TARBALL assignment
 ZCZC W03  10 L10 Update myscript.sh
 ZCZC W03  15 L10 Update Week 03 ranks
 ZCZC W03 180 L10 Make Week 03 Top 10 List
+ZCZC W04 100 L02 Zoom class (Wednesday)
+ZCZC W04  10 L01 Check SCELE (Cumulative)
+ZCZC W04  20 L06 Re-read week 04 slides
+ZCZC W04  10 L23 Read discussions and questions on Discord (Cumulative)
+ZCZC W04  10 L10 Update myscript.sh
+ZCZC W04  30 L10 Choose Week 04 ranks
+ZCZC W04  30 L10 Trying Demo Week04
