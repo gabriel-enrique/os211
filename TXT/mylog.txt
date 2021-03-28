@@ -65,3 +65,4 @@ ZCZC W04  10 L23 Read discussions and questions on Discord (Cumulative)
 ZCZC W04  10 L10 Update myscript.sh
 ZCZC W04  30 L10 Choose Week 04 ranks
 ZCZC W04  30 L10 Trying Demo Week04
+ZCZC W04  30 L10 Do the TLPI assignment
