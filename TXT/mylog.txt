@@ -67,3 +67,4 @@ ZCZC W04  30 L10 Choose Week 04 ranks
 ZCZC W04  30 L10 Trying Demo Week04
 ZCZC W04  30 L10 Do the TLPI assignment
 ZCZC W04 180 L10 Make Week 04 Top 10 List
+ZCZC W04  45 L06 Read OSC10 chapter 9
