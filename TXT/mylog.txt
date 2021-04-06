@@ -69,8 +69,10 @@ ZCZC W04  30 L10 Do the TLPI assignment
 ZCZC W04 180 L10 Make Week 04 Top 10 List
 ZCZC W04  45 L06 Read OSC10 chapter 9
 ZCZC W05 100 L02 Zoom class (Wednesday)
-ZCZC W05   5 L01 Check SCELE (Cumulative)
+ZCZC W05  10 L01 Check SCELE (Cumulative)
 ZCZC W05  20 L06 Re-read week 05 slides
-ZCZC W05  10 L23 Read discussions and questions on Discord (Cumulative)
+ZCZC W05  15 L23 Read discussions and questions on Discord (Cumulative)
 ZCZC W05  10 L10 Update myscript.sh
 ZCZC W05 120 L10 Do Week05 assignments
+ZCZC W05 180 L10 Make Week 05 Top 10 List
+ZCZC W05  20 L10 Choose Week 05 ranks
