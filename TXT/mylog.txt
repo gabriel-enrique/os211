@@ -82,3 +82,4 @@ ZCZC W06  25 L06 Re-read week 05 slides
 ZCZC W06  30 L23 Read discussions and questions on Discord (Cumulative)
 ZCZC W06 120 L10 Do Week06 assignments
 ZCZC W06  10 L10 Check if myscript.sh is up-to-date
+ZCZC W06  20 L10 Choose Week 06 ranks
