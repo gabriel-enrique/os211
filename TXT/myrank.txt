@@ -17,3 +17,6 @@ ZCZC W04 GerradND
 ZCZC W05 hadihalimm
 ZCZC W05 gilangcy
 ZCZC W05 GhifariZR
+ZCZC W06 haikalSusanto
+ZCZC W06 hadihalimm
+ZCZC W06 garyteofanus
