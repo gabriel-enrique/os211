@@ -92,3 +92,4 @@ ZCZC W07  15 L10 Choose Week 07 ranks
 ZCZC W07 100 L10 Trying Demo Week06 Week07 Week08
 ZCZC W07  10 L10 Check if myscript.sh is up-to-date
 ZCZC W07 150 L10 Do Week07 assignments
+ZCZC W07 180 L10 Make Week 07 Top 10 List
