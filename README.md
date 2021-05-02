@@ -13,3 +13,5 @@ Hey, there! I'm **Gabriel Enrique**. Nice to meet you! 😄
  - [Week 04](https://gabriel-enrique.github.io/os211/W04/)
  - [Week 05](https://gabriel-enrique.github.io/os211/W05/)
  - [Week 06](https://gabriel-enrique.github.io/os211/W06/)
+ - [Week 07](https://gabriel-enrique.github.io/os211/W07/)
+ 
