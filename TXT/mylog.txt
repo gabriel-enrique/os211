@@ -93,3 +93,8 @@ ZCZC W07 100 L10 Trying Demo Week06 Week07 Week08
 ZCZC W07  10 L10 Check if myscript.sh is up-to-date
 ZCZC W07 150 L10 Do Week07 assignments
 ZCZC W07 180 L10 Make Week 07 Top 10 List
+ZCZC W08 100 L02 Zoom class (Monday)
+ZCZC W08  10 L01 Check SCELE (Cumulative)
+ZCZC W08  20 L06 Re-read week 08 slides
+ZCZC W08  15 L23 Read discussions and questions on Discord (Cumulative)
+ZCZC W08  15 L10 Choose Week 08 ranks
