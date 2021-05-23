@@ -108,3 +108,4 @@ ZCZC W09  15 L23 Read discussions and questions on Discord (Cumulative)
 ZCZC W09  15 L10 Choose Week 09 ranks
 ZCZC W09  10 L10 Check if myscript.sh is up-to-date
 ZCZC W09 210 L10 Do Week09 LFS assignments
+ZCZC W09 180 L10 Make Week 09 Top 10 List
